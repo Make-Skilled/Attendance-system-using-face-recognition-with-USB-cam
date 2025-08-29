@@ -1,4 +1,4 @@
-# Face Recognition Attendance System
+# Face Recognition Attendance System with USB camera
 
 A modern, contactless attendance system using face recognition and Flask. Students register their face via webcam, and attendance is marked with a simple scan. Admins can manage requests and view statistics. Built with Python, Flask, MongoDB, and face_recognition.
 
@@ -108,4 +108,5 @@ attendance-system/
 ---
 
 ## License
+
 This project is for educational and demonstration purposes. 
